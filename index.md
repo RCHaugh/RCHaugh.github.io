@@ -1,4 +1,22 @@
-Hello world
+### Busa gives lecture on database of documents
+
+Busa is teaching students how to use punched-card machines to process language as data at the Center for the Automation of Literary Analysis and [can be accessed here] (http://www.recaal.org/img/slideshow/Busa_Teaching.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalanicraig/H301Spr2022IUB.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
