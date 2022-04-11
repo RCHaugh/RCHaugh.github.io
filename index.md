@@ -1,4 +1,8 @@
-### Busa gives lecture on database of documents
+---
+permalink: /index.html
+---
+
+### Busa Gives Lecture on Database of Documents
 
 Busa is teaching students how to use punched-card machines to process language as data at the Center for the Automation of Literary Analysis and [can be accessed here] (http://www.recaal.org/img/slideshow/Busa_Teaching.jpg)
 
